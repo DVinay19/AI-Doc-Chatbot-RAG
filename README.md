@@ -1,4 +1,4 @@
-# DocuMind AI
+ # DocuMind AI
 
 A Streamlit document Q&A workspace that extracts text from a PDF, retrieves relevant passages using TF-IDF similarity, and optionally generates grounded answers using a local Ollama model.
 
