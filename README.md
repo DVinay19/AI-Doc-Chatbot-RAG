@@ -1,4 +1,4 @@
-#  DocuMind AI — Intelligent Document Q&A Workspace
+ #  DocuMind AI — Intelligent Document Q&A Workspace
 
 <p align="center">
   <strong>Ask Questions. Discover Insights. Understand Your Documents.</strong>
